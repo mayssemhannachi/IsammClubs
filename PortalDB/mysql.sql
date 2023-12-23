@@ -1,0 +1,41 @@
+--CREATE TABLE admin (
+--    id INTEGER PRIMARY KEY,
+--    email TEXT,
+--    password TEXT
+--);
+--INSERT INTO admin (id, email, password) VALUES (1, 'j2iadmin@gmail.com', 'j2i2024');
+--SELECT * FROM admin;
+SELECT * FROM users;
+--CREATE TABLE users (
+--          id INTEGER PRIMARY KEY,
+--             full_name TEXT,
+--            email TEXT,
+ --            password TEXT
+                
+--);
+--DELETE FROM users;
+--INSERT INTO users (id, full_name, email, password) VALUES (1, 'John Doe', 'h@gmail.com', '123456');
+--DROP TABLE  users;
+---ALTER TABLE users
+--ADD COLUMN Age INTEGER;
+--ALTER TABLE users
+--ADD COLUMN Grade TEXT CHECK (Grade IN ('Licences', 'Engineering', 'Masters'));
+--ALTER TABLE users
+--ADD COLUMN speciality TEXT CHECK (
+  --  speciality IN (
+   --     'IM', 'BD', 'MIME', 'CM', 'CAV', 'COCO 3D', 'COCO JV',
+     --   'IMM', 'DSIR', 'IDIAG', 'TMAC', 'IM', 'PAR', 'DCA'
+    --)
+--);
+-- Add club column
+--ALTER TABLE users
+--ADD COLUMN club TEXT CHECK (
+   -- club IN (
+   --     'Jeunes Ingénieurs ISAMM', 'Music Club ISAMM', 'Tunivisions Club ISAMM',
+   --     'Microsoft Club ISAMM', 'LOG ISAMM Club', 'ORENDA Junior Entreprise',
+    --    'Engineers Spark ISAMM', 'Enactus ISAMM', 'Boubli''Club',
+  --      'Robotique Club ISAMM', 'ISAMM Events', 'UGET ISAMM'
+ --   )
+--);
+
+
