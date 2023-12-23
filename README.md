@@ -65,7 +65,7 @@ This project is a Club Portal designed for [University Name] to manage various c
    - Verify the folder structure and update `.vscode/settings.json` if needed.
 
 3. **Run the Application:**
-   - Execute the main class: `ClubSignupForm.java`.
+   - Execute the main class: `useradmin.java`.
 
 ## Additional Notes
 
