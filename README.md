@@ -39,8 +39,8 @@ This project is a Club Portal designed for ISAMM university to manage various cl
 - **Club form:**
   - the user will be guided to a form where he can choose a club to join.
  
-  - 
-        <img width="801" alt="Screenshot 2023-12-23 at 10 37 27 PM" src="https://github.com/mayssemhannachi/IsammClubs/assets/137313875/50340b6a-08c2-45c3-9d95-090e3847605d">
+    <img width="801" alt="Screenshot 2023-12-23 at 10 37 27 PM" src="https://github.com/mayssemhannachi/IsammClubs/assets/137313875/4d9e14d0-1d26-47eb-a211-320983d35124">
+
 
 
 - **Isamm clubs' introduction:**
